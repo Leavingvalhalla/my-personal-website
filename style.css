@@ -1,8 +1,20 @@
 body {
-  background: blue;
+  background-image: url(https://images.unsplash.com/photo-1469474968028-56623f02e42e);
+  background-repeat: no-repeat;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
+div {
+  margin: 20% auto;
+}
+
+.about img {
+  width: 20%;
+  float: right;
+}
+
+.contact img {
+  width: 5%;
+  margin: 2% 5%;
 }
